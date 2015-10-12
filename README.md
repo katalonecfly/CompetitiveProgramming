@@ -1,3 +1,5 @@
 # CompetitiveProgramming
 Solutions to problems from codeforces/topcoder contests.
-qwe
+TODO:
+-create mylib - templates for most-used algorithms/data structures
+-add solutions from previous contests
