@@ -28,7 +28,7 @@ int main(){
 	for(int i=0; i<n; ++i){
 		cin>>a[i];
 		if(firstone==-1&&a[i]==1) firstone=i;
-		if(a[i]==1) y=i;
+		if(a[i]==1) lastone=i;
 	}
 
 	if(firstone==-1){
